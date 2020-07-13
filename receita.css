@@ -1,0 +1,72 @@
+.receita img {
+    width: 883px;
+    height: 374px;
+    margin: 1px;
+    padding: 1px;
+}
+
+p {
+    font-size: 21px;
+    font-weight: semibold;
+    line-height: 1.61;
+    color: black;
+}
+
+
+.autor{
+    text-align: center;
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+
+h1 {
+    font-weight: black;
+    font-size: 89px;
+    line-height: 79px;
+    color: #FFB300;
+    margin: auto;
+    padding: auto;
+}
+
+h4 {
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+    
+}
+
+.preparo {
+border-top: 3px solid gray;
+width: 883px;
+
+}
+
+.ingredientes{
+    font-size: 21px;
+    font-weight: semibold;
+    line-height: 21px * 1.61;
+    color: #FFB300;
+}
+
+.item_preparo {
+    border-top: 3px solid gray;
+    width: 883px;
+}
+
+.modo_preparo{
+
+    font-size: 21px;
+    font-weight: semibold;
+    line-height: 21px * 1.61;
+    color: #FFB300;
+}
+
+.video {
+
+    font-size: 21px;
+    font-weight: semibold;
+    line-height: 21px * 1.61;
+    color: #FFB300;
+}
